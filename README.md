@@ -1,6 +1,6 @@
 # Purpose
 
-This script converts NCBI BioSample accessions to thier corresponding NCBI SRA accesssions. It prints the conversions to the command line and to a file in the present directory: `converted_accs.csv`.
+This script converts NCBI BioSample accessions to thier corresponding NCBI SRA accesssions using [eFetch from the NCBI Entrez Utilities](https://www.ncbi.nlm.nih.gov/books/NBK25499/#chapter4.EFetch). It prints the conversions to the command line and to a file in the present directory: `converted_accs.csv`.
 
 # Usage
 
